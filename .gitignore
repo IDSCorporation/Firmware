@@ -82,3 +82,5 @@ cppcheck-result.xml
 cppcheck
 
 scan-build
+
+*.kdev4
